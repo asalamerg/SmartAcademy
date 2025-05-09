@@ -129,8 +129,6 @@ class _DashbordTeacherState extends State<DashbordTeacher> {
                           borderRadius: BorderRadius.circular(12),
                         ),
                         padding:
-                        \
-                        
                             EdgeInsets.symmetric(horizontal: 24, vertical: 12),
                         elevation: 0,
                       ),
